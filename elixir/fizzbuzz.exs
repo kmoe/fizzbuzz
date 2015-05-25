@@ -1,6 +1,6 @@
-fizzbuzz = fn (_, 0, _) -> "fizz"
+fizzbuzz = fn (_, 0, 0) -> "fizzbuzz"
+              (_, 0, _) -> "fizz"
               (_, _, 0) -> "buzz"
-              (_, 0, 0) -> "fizzbuzz"
               (n, _, _) -> n
 end
 
