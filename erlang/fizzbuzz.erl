@@ -8,4 +8,4 @@ fizzbuzz_pattern(N, _, _) -> integer_to_list(N).
 
 fizzbuzz(N) -> fizzbuzz_pattern(N, N rem 3, N rem 5).
 
-fizzbuzz_output() -> lists:map(fun(N) -> io:format(fizzbuzz(N)) end, lists:seq(1,100)).
+fizzbuzz_output() -> lists:map(fun(N) -> io:format(fizzbuzz(N) ++ "\n") end, lists:seq(1,100)).
