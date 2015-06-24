@@ -1,0 +1,22 @@
+HAI 1.4
+
+IM IN YR FOR_LOOP UPPIN YR i TIL BOTH SAEM i AN 101
+  I HAS A fizz ITZ ""
+  I HAS A buzz ITZ ""
+  
+  BOTH SAEM 0 AN MOD OF i AN 3, O RLY?
+    YA RLY, fizz R "fizz"
+  OIC
+  
+  BOTH SAEM 0 AN MOD OF i AN 5, O RLY?
+    YA RLY, buzz R "buzz"
+  OIC
+
+  EITHER OF fizz AN buzz, O RLY?
+    YA RLY, VISIBLE SMOOSH fizz AN buzz MKAY
+    NO WAI, VISIBLE i
+  OIC
+
+IM OUTTA YR FOR_LOOP
+
+KTHXBYE
