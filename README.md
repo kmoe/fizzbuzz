@@ -1,6 +1,6 @@
 # fizzbuzz
 
-Fizzbuzz in as many languages as I can manage. All written by me.
+Fizzbuzz in as many languages as I can manage. All written by me and Sami Husain.
 
 They all currently use a similar algorithm, except the Erlang, Elixir, and Haskell ones.
 
