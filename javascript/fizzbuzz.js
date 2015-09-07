@@ -1,4 +1,4 @@
-for (var i=1; i<=100; i++) {
+for (var i = 1; i <= 100; i++) {
   var fizz = i % 3 === 0 ? 'fizz' : '';
   var buzz = i % 5 === 0 ? 'buzz' : '';
 
